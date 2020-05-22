@@ -1,0 +1,13 @@
+#header{
+    display: flex;
+}
+#header-img{
+    max-width:350px;
+}
+#ul{
+    display:flex;
+}
+#nav-link{
+    display: flex;
+    justify-content:space-around;
+}
